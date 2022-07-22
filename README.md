@@ -4,7 +4,7 @@
 
 🎮I'm interested in game development, front end web dev, Internet of Things, robotics, and any other cool tech!
 
-🔨🎧I also do woodworking, as well as write and record my own music in my home recording studio!
+🔨🎧I also do woodworking, as well as write and record my own music in my home recording studio
 
 *email me at* JosephRyanDoherty@gmail.com
 
