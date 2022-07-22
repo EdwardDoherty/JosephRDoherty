@@ -1,6 +1,6 @@
 **Hey, I'm Joe Doherty**
 
-🤖I'm a maker who's looking to start a career in IT.
+🤖I'm a maker who's looking to start a career in software.
 
 🎮I'm interested in game development, front end web dev, robotics, and any other cool tech!
 
