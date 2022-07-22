@@ -2,7 +2,7 @@
 
 🤖I'm a maker who's looking to start a career in software.
 
-🎮I'm interested in game development, front end web dev, robotics, and any other cool tech!
+🎮I'm interested in game development, front end web dev, IoT, robotics, and any other cool tech!
 
 🔨🎧I also do woodworking, as well as write and record my own music in my home recording studio!
 
