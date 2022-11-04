@@ -2,10 +2,10 @@
 
 I'm a Front End Web Developer!
 My tech stack includes:
-HTML, CSS, SASS
-Javascript & Node.js
-Python
-C# & The Razor View Engine
+>HTML, CSS, SASS
+>Javascript & Node.js
+>Python
+>C# & The Razor View Engine
 
 I like to make useful stuff, and games.
 
