@@ -1,16 +1,8 @@
 **Hey, I'm Joe Doherty**
 
-I'm a Front End Web Developer!
-My tech stack includes:
-- HTML, CSS, SASS
-- Javascript & Node.js
-- Python
-- C# & The Razor View Engine
+I'm a Software Engineer living in Folsom, California
 
-I like to make useful stuff, and games.
+I like to make useful stuff.
 
-*email me at* Joseph@Doherty.Software
+*email me at* JosephRyanDoherty@gmail.com
 
-Website:
-
-[Joseph.Doherty.Software](https://Joseph.Doherty.Software)
